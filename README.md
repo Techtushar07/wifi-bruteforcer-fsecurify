@@ -7,3 +7,23 @@ Android application to brute force WiFi passwords without requiring a rooted dev
 
 
 
+Installtion :
+
+apt update 
+
+apt upgrade 
+
+pkg install git 
+
+git clone https://github.com/Techtushar07/Wi-Fi-bruteforcer-fsecurify.git
+
+ls
+cd Wi-Fi-bruteforcer-fsecurify
+ls
+
+cp wifi_bruteforcer_fsecurify_6.0.apk /sdcard
+
+# Hope you guys this Script is helpful for you.
+
+# Enjoy (◕‿◕)
+
