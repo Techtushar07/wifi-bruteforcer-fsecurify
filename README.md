@@ -5,5 +5,5 @@ Android application to brute force WiFi passwords without requiring a rooted dev
 
 ![Alt text](1280.jpg?raw=true "Fsecurify")
 
-DownloadLink:
-http://fsecurify.com/wifi-bruteforcer-android-app-to-crack-wifi-passwords/
+
+
